@@ -11,13 +11,15 @@ assignees: ''
 **Requirement Description**
 A clear and concise description of the requirement
 
-**Subtasks (WBS)**
+**Work breakdown structure**
 A list of subtask issues links created from work breakdown structure (WBS)
 
-[ ] - [link to subtask 1]()
-[ ] - [link to subtask 1]()
-...
-[ ] - [link to subtask n]()
+```[tasklist]
+### Tasks
+- [ ] Task link 1
+- [ ] Task link ...
+- [ ] Task link n
+```
 
 **Effort estimation (LOE)**
 Aggregate level of effort (LOE) estimates from the subtasks here
