@@ -11,8 +11,16 @@ assignees: ''
 **Task Description**
 A clear and concise description of the task
 
+**Steps**
+List all steps that are required to complete the task
+
+- 
+- 
+-
+-
+
 **Technical effort (LOE)**
-Breakdown the set of steps that need to be taken to complete this task. Include level of effort (LOE) estimates for all steps.
+Breakdown the set of steps that need by level of effort (LOE) estimates.
 
 **Additional context**
 Add any other context about the task here.
